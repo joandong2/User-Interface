@@ -144,6 +144,12 @@ nav li:first-child {
 	color: black;
 }
 
+.jumbotron a:hover {
+	color: white;
+	background: black;
+	transition: all .5s;
+}
+
 .main-content {
 	margin-top: 60px;
 	border-top: 1px solid black;
